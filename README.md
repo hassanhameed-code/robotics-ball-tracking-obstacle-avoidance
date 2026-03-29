@@ -1,2 +1,3 @@
-# robotics-ball-tracking-obstacle-avoidance
-Vision-based ball detection with obstacle-aware navigation for RoboCup robot
+# Robotics Project
+Vision-Based Ball Detection with Obstacle-Aware Movement Control
+This project implements a robot that detects a ball using vision and navigates while avoiding obstacles.
